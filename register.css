@@ -44,7 +44,7 @@ body{
 }
 select{
     background-color: rgb(20, 20, 20);
-    color: rgb(105, 105, 105);
+    color: whitesmoke;
     border: none;
     height: 45px;
     outline: none;
@@ -67,6 +67,7 @@ form [type="submit"]{
 }
 form [type="submit"]:hover{
     background-color: whitesmoke;
+    transition: background-color 1s;
     color: black;
     font-size: 20px;
 }
