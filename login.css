@@ -55,6 +55,11 @@ form [type="submit"]{
     color: white;
     font-size: 20px;
 }
+form [type="submit"]:hover{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 20px;
+}
 p{
     color: white;
     padding-top: 25px;
