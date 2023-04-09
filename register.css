@@ -79,3 +79,10 @@ a{
     color: gray;
     text-decoration: none;
 }
+.fa-eye{
+    position: absolute;
+    top: 64.3%;
+    right: 36%;
+    cursor: pointer;
+    color: lightgray;
+  }
